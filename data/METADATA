@@ -1,0 +1,24 @@
+Target protein
+  UniProt accession: Q8ZR43
+  UniProt ID: HTHTR_SALTY
+  Protein name: Transcriptional regulator RamR
+  Organism: Salmonella Typhimurium (strain LT2 / SGSC1412 / ATCC 700720), taxon 99287
+  Entry type: UniProtKB reviewed (Swiss-Prot)
+  Length: 193 amino acids
+  Function: TetR-family repressor of ramA; regulates the AcrAB-TolC multidrug efflux pump.
+  Verification: UniProt REST API, 2026-10-30 (https://rest.uniprot.org/uniprotkb/Q8ZR43.json)
+
+Structure
+  Source: AlphaFold Database, model AF-Q8ZR43-F1-model_v6.pdb (v6 current per
+  https://alphafold.ebi.ac.uk/api/prediction/Q8ZR43 on 2026-10-30)
+  Route: AlphaFold DB download (preferred route; ESMFold fallback not needed)
+  Mean pLDDT: 94.5 (180 residues >90, 8 in 70-90, 3 in 50-70, 2 <50; low-confidence residues are the N/C termini only)
+
+Docking ligand
+  Cholic acid (a bile acid). Documented RamR ligand: crystal structures of Salmonella
+  RamR in complex with cholic acid and chenodeoxycholic acid (Yamasaki et al., Scientific
+  Reports 2019; PubMed 30655545). Ligand H-bonds to Tyr59, Thr85, Ser137, Asp152.
+  Docking box center: centroid of CA atoms of Tyr59/Thr85/Ser137/Asp152 in the AlphaFold
+  model = (9.26, 6.43, -4.55) A. Box size 22x22x22 A.
+  Note: docking performed on the AlphaFold monomer; in vivo RamR is a homodimer with
+  one bile-acid site per monomer. This is a computational exercise, not an experimental claim.

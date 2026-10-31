@@ -1,0 +1,15 @@
+interaction_type,residue,resnum,chain,distance_A
+hydrophobic,TYR,92,A,3.43
+hydrophobic,TYR,92,A,3.86
+hydrophobic,ILE,106,A,3.8
+hydrophobic,LEU,130,A,3.66
+hydrophobic,VAL,138,A,2.87
+hydrophobic,PHE,155,A,3.53
+hydrophobic,LEU,156,A,3.58
+hbond,TYR,59,A,2.34
+hbond,TYR,59,A,2.82
+hbond,PHE,142,A,1.98
+hbond,ARG,148,A,2.74
+hbond,ARG,148,A,3.47
+hbond,ASP,152,A,2.92
+salt_bridge,LYS,63,A,3.48

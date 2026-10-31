@@ -1,0 +1,12 @@
+receptor = ramr_receptor.pdbqt
+ligand = cholic_acid.pdbqt
+center_x = 9.26
+center_y = 6.43
+center_z = -4.55
+size_x = 22
+size_y = 22
+size_z = 22
+exhaustiveness = 16
+num_modes = 9
+out = cholic_acid_docked.pdbqt
+log = vina.log
